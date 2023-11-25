@@ -2,7 +2,7 @@
 As part of my graduate work I created some tools for the molecular dynamics simulation program [LAMMPS](https://www.lammps.org/). These utilities greatly increased the utility of using LAMMPS in the geologic domain. There are utilities for creating intial configurations using the skew-start methodology along with analysis code for computing coordination numbers, their associated cutoffs, 
 
 # Citing this code
-If you use or modify any of this code please cite this code with the following reference. This is a reference to my Dissertation which contains the details of what the code did and what algorythms were used.
+If you use or modify any of this code please cite this code with the following reference. This is a reference to my Dissertation which contains the details of what the code did and what algorithms were used.
 
 ```
 Nevins, D. I. (2009). Understanding silicate geoliquids at high temperatures and pressures through molecular dynamics simulations. University of California, Santa Barbara.
